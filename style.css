@@ -1,0 +1,96 @@
+
+
+body{
+  margin:0;
+}
+
+#culture{
+  letter-spacing:4px;
+}
+.headercontent{
+  border-bottom:1px solid #eee;
+  margin-top:0;
+  margin-left:0;
+
+  height:113px;
+  width:100%;
+  padding: 0;
+  margin-bottom:50px;
+}
+
+.maincontent{
+  margin-left:25%;
+  margin-right: 20%;
+  padding-left: 5px;
+  padding-right: 6px;
+  padding-top: 30px;
+  padding-bottom: 25px;
+  float:left;
+  display:flex;
+
+}
+
+.logocontent{
+  width:275px;
+  height:53px;
+  margin:0;
+}
+
+
+.logincontent{
+  width:456px;
+  height:57px;
+  letter-spacing:20px;
+  padding-left: 0;
+  margin:0;
+}
+
+.menu{
+  position:absolute;
+  top:113px;
+  bottom:-30px;
+  height:40px;
+  width:100%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-bottom:2px solid #fb4357;
+}
+
+.menubutton{
+  margin-top:10px;
+  margin-bottom:0;
+  margin-left:25%;
+  margin-right:20%;
+  padding:0;
+
+}
+
+.searchtool{
+  position:absolute;
+  top:7px;
+  bottom:9px;
+  right:24%;
+  margin-top:10px;
+  width:187px;
+  height:24px;
+  padding-left:10px;
+  padding-right:30px;
+  border-left:1px solid #cacaca;
+  border-right:1px solid #cacaca;
+}
+
+.searchtool {
+  display:flex;
+}
+
+.searchbox{
+  border:none;
+  margin:0;
+  height:24px;
+  width:184px;
+}
+
+.mainpic{
+  margin-left:25%;
+  margin-right:20%;
+}
